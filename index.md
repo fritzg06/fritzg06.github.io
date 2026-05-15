@@ -37,7 +37,8 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
   - Invest in good legal representation
   - Instate a process that discourages invoice disputes
   - Incentives for good client behavior & penalties for bad behavior
-* **[Written Report]()**
+* **[Written Report](https://github.com/fritzg06/fritzg06.github.io/blob/888f3492fdef4501f143dc2f44dc38256b31a188/Refocus-SQL%20and%20Excel/01_GP1%20Main%20Report.pdf)**
+* **[Presentation](https://github.com/fritzg06/fritzg06.github.io/blob/888f3492fdef4501f143dc2f44dc38256b31a188/Refocus-SQL%20and%20Excel/Yellevate%20Presentation.pdf)**
 * [**View Code**](https://github.com/link-to-repo) | [**Live Demo**](https://link-to-demo.com)
 
 ### 🏆 Project Title Two
