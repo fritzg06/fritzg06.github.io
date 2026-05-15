@@ -46,10 +46,11 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 
 ## 📜 Certifications & Education
 * **[B.S. in Electronics and Communications Engineering](https://github.com/fritzg06/fritzg06.github.io/blob/24c0696045a8cdea8e4d24997e2388d242e7bd46/fritzr_ece_diploma.pdf)** – Mapua Institute of Technology (2003-2007)
+* **[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/1f765662-bf23-47d1-9628-500cb7ccde34)** (2020)
 * **[VCAP6-DCV Certification (Data Center Virtualization)](https://www.credly.com/badges/b6e4c760-c976-4665-802a-30d43d60411d)** (2018)
 * **[VCP6-NV Certification (Network Virtualization)](https://www.credly.com/badges/84075b2b-ef4f-4e59-baf4-95079cd62484)** (2017)
 * **[VCP6-DCV Certification (Data Center Virtualization)](https://www.credly.com/badges/42637157-d366-4e4f-a65e-e86358ae5bc9)** (2016)
-* **[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/1f765662-bf23-47d1-9628-500cb7ccde34)** (2020)
+
 
 ---
 
