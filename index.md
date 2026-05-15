@@ -53,6 +53,7 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 * **[Core & Advanced Track of Refocus Data Analytics Course](https://github.com/fritzg06/fritzg06.github.io/blob/9316f1a433b03c4c0d12ce64811aa9f8ea9f0c33/Certificates/Certificate-Advanced%20Track%20Data%20Analytics.pdf)** (2023)
 * **[Core Track of Refocus Data Analytics Course](https://github.com/fritzg06/fritzg06.github.io/blob/9316f1a433b03c4c0d12ce64811aa9f8ea9f0c33/Certificates/RefocusCompletionCertificate_Fritz%20Gerald%20Reyes_78123022.pdf)** (2022)
 * **[EC-Council Certified SOC Analyst v1 Course](https://github.com/fritzg06/fritzg06.github.io/blob/4653f2a7bfdef73a8004a1074b08518f41c6641a/Certificates/ECC-Evaluation-Certificate.pdf)** (2021)
+* **[Six Sigma White Belt](https://github.com/fritzg06/fritzg06.github.io/blob/019c6b74659f81dd5831929f36683638685ac2a4/Certificates/Official_Certification_Issued_Six_Sigma_White_Belt_Certification.pdf)** (2021)
 * **[AWS Technical Professional](https://github.com/fritzg06/fritzg06.github.io/blob/4bb924131f0533322c5aeb3945e09aec29f6f638/Certificates/AWS%20Technical%20Professional.pdf)** (2020)
 * **[AWS Cloud Practitioner Essentials](https://github.com/fritzg06/fritzg06.github.io/blob/4bb924131f0533322c5aeb3945e09aec29f6f638/Certificates/AWS%20Cloud%20Practitioner%20Essentials.pdf)** (2020)
 * **[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/1f765662-bf23-47d1-9628-500cb7ccde34)** (2020)
