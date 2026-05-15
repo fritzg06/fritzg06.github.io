@@ -6,7 +6,7 @@ title: Your Name | Portfolio
 > 🏗️ **Note:** This portfolio is currently **under construction**. Some links or images may be placeholders while I finalize the content.
 
 # 👋 Hi, I am Fritz Gerald Reyes
-### SRE (Site Reliability Engineer)
+### SRE (Site Reliability Engineer) | CyberSecurity | Data Analyst
 **[Bacoor, Cavite]** | [Email](mailto:reyes.fy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fritz-gerald-reyes/) | [GitHub](https://github.com/fritzg06)
 
 ---
@@ -59,7 +59,7 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 
 ## 📧 Let's Connect!
 I'm always open to discussing new projects or career opportunities. 
-[Click here to send me an email](mailto:your@email.com).
+[Click here to send me an email](mailto:reyes.fy@gmail.com).
 
 
-*Last Updated: March 14, 2026*
+*Last Updated: May 15, 2026*
