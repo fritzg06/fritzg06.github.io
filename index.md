@@ -45,7 +45,7 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 * **[Written Report](https://drive.google.com/file/d/12FMS4hfb_Axcy4V-7eBlB8_cGOcF7W8v/view?usp=sharing)**
 * **[Presentation](https://drive.google.com/file/d/12C35Hshe9mcY8-w503SQClmaA6ORLnE8/view?usp=sharing)**
 * **[Video Presentation](https://drive.google.com/file/d/12CFWdyrIJNPV6LOCBhWxylNCXaChaohl/view?usp=sharing)**
-* [**View Code**](https://github.com/fritzg06/fritzg06.github.io/blob/03fef5f53d5de1f28723818fea323ee9c2d9d842/Refocus-SQL%20and%20Excel/02_Team13_SQL_Codes.sql)
+* **[View Code](https://github.com/fritzg06/fritzg06.github.io/blob/03fef5f53d5de1f28723818fea323ee9c2d9d842/Refocus-SQL%20and%20Excel/02_Team13_SQL_Codes.sql)**
 
 ### 🏆 Project Title Two
 *A brief 1-sentence description of what this project does.*
