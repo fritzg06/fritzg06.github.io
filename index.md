@@ -50,12 +50,28 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 | **[Video Presentation](https://drive.google.com/file/d/12CFWdyrIJNPV6LOCBhWxylNCXaChaohl/view?usp=sharing)**
 * **[View Code](https://github.com/fritzg06/fritzg06.github.io/blob/03fef5f53d5de1f28723818fea323ee9c2d9d842/Refocus-SQL%20and%20Excel/02_Team13_SQL_Codes.sql)**
 
-### 🏆 Project Title Two
-*A brief 1-sentence description of what this project does.*
-* **The Problem:** The client needed a way to visualize real-time sales data.
-* **The Solution:** Developed a dashboard using D3.js and Firebase.
-* **The Result:** Currently used by a team of 10 to track $50k in monthly revenue.
-* [**View Code**](https://github.com/link-to-repo)
+### 🏆 📈 Project Clockster
+*The medical company's HR department wants to determine insights on employee attendance.*
+* **The Problem:** 
+  - Identify the most disciplined and undisciplined employees and divisions.
+  - Create a visualization with the analysis of weekdays and months when the most employees were late/absent.
+  - Which heads of departments tend to forgive employees for lack of discipline? Are there any favorites for any heads of departments?
+* **The Solution:** 4-Phase Methodology
+  - Pre-cleaning of data
+  - Data Cleaning
+  - Analysis
+  - Visualization
+* **The Result:** Provided recommendations:
+  - Clearer tardiness policies
+  - Proper clock-in and clock-out practices
+  - Sanction policies
+  - Improve data gathering
+  - Reward system
+* **[Written Report](https://drive.google.com/file/d/1-t7Wy_yRy1CoRI3hOGOyXZy-Hwv6vV5u/view?usp=sharing)**
+| **[Presentation](https://drive.google.com/file/d/1-mnNSu1n9Q1Akj__RjUUyvGoPEwck2Jp/view?usp=sharing)**
+| **[Video Presentation](https://drive.google.com/file/d/124kqvUgtIbuK_3zHDLCBQNuR57AxpplY/view?usp=sharing)**
+* **[Power BI PBIX File](https://drive.google.com/file/d/1-sU853qjAW8371ZpOrNoOnhNYo_m5M45/view?usp=sharing)**
+* **[View Code](https://github.com/link-to-repo)**
 
 ---
 
