@@ -28,11 +28,16 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 
 ## 📁 Featured Projects
 
-### 🏆 Project Title One
-*A brief 1-sentence description of what this project does.*
-* **The Problem:** Describe the pain point you addressed.
-* **The Solution:** Built a [Technology] based system to automate [Process].
-* **The Result:** Reduced manual effort by **30%** and improved data accuracy.
+### 🏆 Project Yellevate
+*Breaking down Yellevate's Customer Dispute Problem.*
+* **The Problem:** Get insights on how to reduce the revenue loss from disputed invoices.
+* **The Solution:** Understand the Business & Data Analysis Goals -> Import & Process Data in SQL -> Export to Excel, Pivot, Charts
+* **The Result:** Provided recommendations: 
+  - Investigate closer the chronic disputers
+  - Invest in good legal representation
+  - Instate a process that discourages invoice disputes
+  - Incentives for good client behavior & penalties for bad behavior
+* **[Written Report]()**
 * [**View Code**](https://github.com/link-to-repo) | [**Live Demo**](https://link-to-demo.com)
 
 ### 🏆 Project Title Two
