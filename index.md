@@ -46,6 +46,9 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 
 ## 📜 Certifications & Education
 * **[B.S. in Electronics and Communications Engineering](https://github.com/fritzg06/fritzg06.github.io/blob/24c0696045a8cdea8e4d24997e2388d242e7bd46/fritzr_ece_diploma.pdf)** – Mapua Institute of Technology (2003-2007)
+* **[GuideM CyberDefense & Threat Hunting](https://github.com/fritzg06/fritzg06.github.io/blob/08738ba8431830e59b045ef9236ffdcce08f5c77/GuideM%20-%20CDTH%20-%20CoC%20-%20FGReyes.pdf)** (2025)
+* **[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4C2BC41E69D3E0E519A94FCF182B0E84075C942BADCC325F5D9F55F0104A1F6F)** (2025)
+* **[IBM QRadar SIEM Foundation](https://www.credly.com/badges/96a1437a-3710-4543-8926-5c5865335734)** (2025)
 * **[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/1f765662-bf23-47d1-9628-500cb7ccde34)** (2020)
 * **[VCAP6-DCV Certification (Data Center Virtualization)](https://www.credly.com/badges/b6e4c760-c976-4665-802a-30d43d60411d)** (2018)
 * **[VCP6-NV Certification (Network Virtualization)](https://www.credly.com/badges/84075b2b-ef4f-4e59-baf4-95079cd62484)** (2017)
