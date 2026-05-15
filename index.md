@@ -7,7 +7,7 @@ title: Your Name | Portfolio
 
 # 👋 Hi, I am Fritz Gerald Reyes
 ### SRE (Site Reliability Engineer)
-**[Location]** | [Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**[Bacoor, Cavite]** | [Email](mailto:reyes.fy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fritz-gerald-reyes/) | [GitHub](https://github.com/fritzg06)
 
 ---
 
