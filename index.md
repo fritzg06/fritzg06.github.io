@@ -28,7 +28,7 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 
 ## 📁 Featured Projects
 
-### 🏆 Project Yellevate
+### 🏆 📈 Project Yellevate
 *Breaking down Yellevate's Customer Dispute Problem.*
 * **The Problem:** Get insights on how to reduce the revenue loss from disputed invoices.
 * **The Solution:** 3-Phase Methodology
