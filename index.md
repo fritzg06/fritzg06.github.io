@@ -37,9 +37,15 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
   - Invest in good legal representation
   - Instate a process that discourages invoice disputes
   - Incentives for good client behavior & penalties for bad behavior
+* **Roles on this group project:**
+  - Team Lead / Group Workspace
+  - SQL Coding (create schema/table, data import, data checks, SQL queries for the data analysis goals)
+  - Data Analysis, Research on Recommendations
+  - Presentation Slides
 * **[Written Report](https://github.com/fritzg06/fritzg06.github.io/blob/888f3492fdef4501f143dc2f44dc38256b31a188/Refocus-SQL%20and%20Excel/01_GP1%20Main%20Report.pdf)**
 * **[Presentation](https://github.com/fritzg06/fritzg06.github.io/blob/888f3492fdef4501f143dc2f44dc38256b31a188/Refocus-SQL%20and%20Excel/Yellevate%20Presentation.pdf)**
-* [**View Code**](https://github.com/link-to-repo) | [**Live Demo**](https://link-to-demo.com)
+* **[Video Presentation](https://drive.google.com/file/d/12CFWdyrIJNPV6LOCBhWxylNCXaChaohl/view?usp=sharing)**
+* [**View Code**](https://github.com/fritzg06/fritzg06.github.io/blob/03fef5f53d5de1f28723818fea323ee9c2d9d842/Refocus-SQL%20and%20Excel/02_Team13_SQL_Codes.sql)
 
 ### 🏆 Project Title Two
 *A brief 1-sentence description of what this project does.*
