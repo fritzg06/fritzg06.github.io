@@ -71,7 +71,7 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 | **[Presentation](https://drive.google.com/file/d/1-mnNSu1n9Q1Akj__RjUUyvGoPEwck2Jp/view?usp=sharing)**
 | **[Video Presentation](https://drive.google.com/file/d/124kqvUgtIbuK_3zHDLCBQNuR57AxpplY/view?usp=sharing)**
 * **[Power BI PBIX File](https://drive.google.com/file/d/1-sU853qjAW8371ZpOrNoOnhNYo_m5M45/view?usp=sharing)**
-* **[View Code](https://github.com/link-to-repo)**
+* **[View Code](https://github.com/fritzg06/fritzg06.github.io/tree/main/Refocus-PowerBI)**
 
 ---
 
