@@ -5,8 +5,8 @@ title: Your Name | Portfolio
 
 > 🏗️ **Note:** This portfolio is currently **under construction**. Some links or images may be placeholders while I finalize the content.
 
-# 👋 Hi, I'm [Your Name]
-### [Your Professional Title, e.g., Full Stack Developer / Data Analyst]
+# 👋 Hi, I am Fritz Gerald Reyes
+### SRE (Site Reliability Engineer)
 **[Location]** | [Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 
 ---
