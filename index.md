@@ -38,7 +38,7 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
   - Instate a process that discourages invoice disputes
   - Incentives for good client behavior & penalties for bad behavior
 * **Roles on this group project:**
-  - Team Lead / Group Workspace
+  - Team Lead / created the Group Workspace
   - SQL Coding (create schema/table, data import, data checks, SQL queries for the data analysis goals)
   - Data Analysis, Research on Recommendations
   - Presentation Slides
