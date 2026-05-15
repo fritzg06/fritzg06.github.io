@@ -31,7 +31,10 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 ### 🏆 Project Yellevate
 *Breaking down Yellevate's Customer Dispute Problem.*
 * **The Problem:** Get insights on how to reduce the revenue loss from disputed invoices.
-* **The Solution:** Understand the Business & Data Analysis Goals -> Import & Process Data in SQL -> Export to Excel, Pivot, Charts
+* **The Solution:** 3-Phase Methodology
+  - Understand the Business & Data Analysis Goals
+  - Import & Process Data in SQL
+  - Export to Excel, Pivot, Charts
 * **The Result:** Provided recommendations: 
   - Investigate closer the chronic disputers
   - Invest in good legal representation
