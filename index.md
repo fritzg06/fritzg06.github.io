@@ -64,7 +64,7 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 * **[🛡️ GuideM CyberDefense & Threat Hunting](https://github.com/fritzg06/fritzg06.github.io/blob/2a4eb8bb6d50ab0135fdf593b570802cd4caef90/Certificates/GuideM%20-%20CDTH%20-%20CoC%20-%20FGReyes.pdf)** (2025)
 * **[🖥️ Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4C2BC41E69D3E0E519A94FCF182B0E84075C942BADCC325F5D9F55F0104A1F6F)** (2025)
 * **[🛡️ IBM QRadar SIEM Foundation](https://www.credly.com/badges/96a1437a-3710-4543-8926-5c5865335734)** (2025)
-* **[Cloud Operations on AWS (formerly Systems Operations)](https://github.com/fritzg06/fritzg06.github.io/blob/6d5581d0ee37ad557b721c88902ec96423f1b18d/Certificates/CertificateOfCompletion_AWS_CloudOperations_27Oct2023.pdf)** (2023)
+* **[🖥️ Cloud Operations on AWS (formerly Systems Operations)](https://github.com/fritzg06/fritzg06.github.io/blob/6d5581d0ee37ad557b721c88902ec96423f1b18d/Certificates/CertificateOfCompletion_AWS_CloudOperations_27Oct2023.pdf)** (2023)
 * **[📈 Core & Advanced Track of Refocus Data Analytics Course](https://github.com/fritzg06/fritzg06.github.io/blob/9316f1a433b03c4c0d12ce64811aa9f8ea9f0c33/Certificates/Certificate-Advanced%20Track%20Data%20Analytics.pdf)** (2023)
 * **[📈 Core Track of Refocus Data Analytics Course](https://github.com/fritzg06/fritzg06.github.io/blob/9316f1a433b03c4c0d12ce64811aa9f8ea9f0c33/Certificates/RefocusCompletionCertificate_Fritz%20Gerald%20Reyes_78123022.pdf)** (2022)
 * **[🛡️ EC-Council Certified SOC Analyst v1 Course](https://github.com/fritzg06/fritzg06.github.io/blob/4653f2a7bfdef73a8004a1074b08518f41c6641a/Certificates/ECC-Evaluation-Certificate.pdf)** (2021)
