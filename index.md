@@ -71,7 +71,7 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 | **[Presentation](https://drive.google.com/file/d/1-mnNSu1n9Q1Akj__RjUUyvGoPEwck2Jp/view?usp=sharing)**
 | **[Video Presentation](https://drive.google.com/file/d/124kqvUgtIbuK_3zHDLCBQNuR57AxpplY/view?usp=sharing)**
 * **[Power BI PBIX File](https://drive.google.com/file/d/1-sU853qjAW8371ZpOrNoOnhNYo_m5M45/view?usp=sharing)**
-* **[View Code](https://github.com/fritzg06/fritzg06.github.io/tree/main/Refocus-Clockster)**
+| **[View Code](https://github.com/fritzg06/fritzg06.github.io/tree/main/Refocus-Clockster)**
 
 ### 🏆 📈 Health Tracker Smartwatch Business Expansion Project
 *The goal is to identify the state with the best potential for business expansion.*
@@ -109,9 +109,10 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 | **[Presentation](https://drive.google.com/file/d/1O1PANW3I5-2hF2OD2pW5dlHPnuIpV1l_/view)**
 | **[Video Presentation](https://www.loom.com/share/4fae0d759aad4a3aa830206fa4ba009e?sid=e7aaf2e9-5667-4829-be6a-3e3564ecb31f)**
 * **[View Code (PostgreSQL)](https://github.com/fritzg06/fritzg06.github.io/tree/634dcaa93cbc53ca90de2ea8f22b06f5ba49d7ea/Refocus-HealthTrackerSmartWatch/PostgreSQL)**
-* **[Excel File](https://docs.google.com/spreadsheets/d/1Xk81aynGgayHbcYgkfpJRDw2nChCkwTq/edit?usp=sharing&ouid=112808586391775117333&rtpof=true&sd=true)**
-* **[Power BI PBIX File](https://drive.google.com/file/d/1yZlBcNpnI-dpDmhDUICwps_KoJTYgC6x/view?usp=sharing)**
-* **[View Code (Python Google Colab Notebook)](https://github.com/fritzg06/fritzg06.github.io/tree/634dcaa93cbc53ca90de2ea8f22b06f5ba49d7ea/Refocus-HealthTrackerSmartWatch/Python)**
+| **[Excel File](https://docs.google.com/spreadsheets/d/1Xk81aynGgayHbcYgkfpJRDw2nChCkwTq/edit?usp=sharing&ouid=112808586391775117333&rtpof=true&sd=true)**
+| **[Power BI PBIX File](https://drive.google.com/file/d/1yZlBcNpnI-dpDmhDUICwps_KoJTYgC6x/view?usp=sharing)**
+| **[View Code (Python Google Colab Notebook)](https://github.com/fritzg06/fritzg06.github.io/tree/634dcaa93cbc53ca90de2ea8f22b06f5ba49d7ea/Refocus-HealthTrackerSmartWatch/Python)**
+
 ---
 
 ## 📜 Certifications & Education
