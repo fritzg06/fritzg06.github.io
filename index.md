@@ -67,6 +67,12 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
   - Sanction policies
   - Improve data gathering
   - Reward system
+* **Roles on this group project:**
+  - Team Lead / Group Workspace
+  - Pre-Cleaning
+  - SQL Coding (create schema/table, data import, data cleaning, UNNEST, removing duplicates
+  - Power BI (Core Power BI functionalities, e.g. Power Query, Data Model, DAX Codes, Data Visualization)
+  - Written Report, e.g. Documentation (Methodology, Findings, Recommendation)
 * **[Written Report](https://drive.google.com/file/d/1-t7Wy_yRy1CoRI3hOGOyXZy-Hwv6vV5u/view?usp=sharing)**
 | **[Presentation](https://drive.google.com/file/d/1-mnNSu1n9Q1Akj__RjUUyvGoPEwck2Jp/view?usp=sharing)**
 | **[Video Presentation](https://drive.google.com/file/d/124kqvUgtIbuK_3zHDLCBQNuR57AxpplY/view?usp=sharing)**
