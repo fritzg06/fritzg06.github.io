@@ -108,9 +108,10 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 * **[Written Report](https://drive.google.com/file/d/1CRf1KlYPa4RYwcbKCeGJL6MYlrmPGFPr/view)**
 | **[Presentation](https://drive.google.com/file/d/1O1PANW3I5-2hF2OD2pW5dlHPnuIpV1l_/view)**
 | **[Video Presentation](https://www.loom.com/share/4fae0d759aad4a3aa830206fa4ba009e?sid=e7aaf2e9-5667-4829-be6a-3e3564ecb31f)**
-* **[Power BI PBIX File]()** (Available upon request)
-* **[View Code]()** (Available upon request)
-
+* **[View Code (SQL)]()**
+* **[Excel File]()**
+* **[Power BI PBIX File]()**
+* **[View Code (Python Google Colab Notebook)]()**
 ---
 
 ## 📜 Certifications & Education
