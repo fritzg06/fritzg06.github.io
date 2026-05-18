@@ -30,6 +30,11 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 
 ### 🏆 📈 Project Yellevate
 *Breaking down Yellevate's Customer Dispute Problem.*
+<details>
+<summary>
+Click to expand/collapse...
+</summary>
+
 * **The Problem:** Get insights on how to reduce the revenue loss from disputed invoices.
 * **The Solution:** 3-Phase Methodology
   - Understand the Business & Data Analysis Goals
@@ -45,13 +50,19 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
   - SQL Coding (create schema/table, data import, data checks, SQL queries for the data analysis goals)
   - Data Analysis, Research on Recommendations
   - Presentation Slides
-* **[Written Report](https://drive.google.com/file/d/12FMS4hfb_Axcy4V-7eBlB8_cGOcF7W8v/view?usp=sharing)**
-| **[Presentation](https://drive.google.com/file/d/12C35Hshe9mcY8-w503SQClmaA6ORLnE8/view?usp=sharing)**
-| **[Video Presentation](https://drive.google.com/file/d/12CFWdyrIJNPV6LOCBhWxylNCXaChaohl/view?usp=sharing)**
+* **[Written Report](https://drive.google.com/file/d/12FMS4hfb_Axcy4V-7eBlB8_cGOcF7W8v/view?usp=sharing)** | **[Presentation](https://drive.google.com/file/d/12C35Hshe9mcY8-w503SQClmaA6ORLnE8/view?usp=sharing)** | **[Video Presentation](https://drive.google.com/file/d/12CFWdyrIJNPV6LOCBhWxylNCXaohl/view?usp=sharing)**
 * **[View Code](https://github.com/fritzg06/fritzg06.github.io/tree/main/Refocus-Yellevate)**
+</details>
+
+<br>
 
 ### 🏆 📈 Project Clockster
 *The medical company's HR department wants to determine insights on employee attendance.*
+<details>
+<summary>
+Click to expand/collapse...
+</summary>
+
 * **The Problem:** 
   - Identify the most disciplined and undisciplined employees and divisions.
   - Create a visualization with the analysis of weekdays and months when the most employees were late/absent.
@@ -78,9 +89,17 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 | **[Video Presentation](https://drive.google.com/file/d/124kqvUgtIbuK_3zHDLCBQNuR57AxpplY/view?usp=sharing)**
 * **[Power BI PBIX File](https://drive.google.com/file/d/1-sU853qjAW8371ZpOrNoOnhNYo_m5M45/view?usp=sharing)**
 | **[View Code](https://github.com/fritzg06/fritzg06.github.io/tree/main/Refocus-Clockster)**
+</details>
+
+<br>
 
 ### 🏆 📈 Health Tracker Smartwatch Business Expansion Project
 *The goal is to identify the state with the best potential for business expansion.*
+<details>
+<summary>
+Click to expand/collapse...
+</summary>
+
 * **The Problem:** 
   - Identify the states with higher income and lower corruption rates (considered more favorable for our business).
 * **The Solution:** 
@@ -118,6 +137,9 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 | **[Excel File](https://docs.google.com/spreadsheets/d/1Xk81aynGgayHbcYgkfpJRDw2nChCkwTq/edit?usp=sharing&ouid=112808586391775117333&rtpof=true&sd=true)**
 | **[Power BI PBIX File](https://drive.google.com/file/d/1yZlBcNpnI-dpDmhDUICwps_KoJTYgC6x/view?usp=sharing)**
 | **[View Code (Python Google Colab Notebook)](https://github.com/fritzg06/fritzg06.github.io/tree/634dcaa93cbc53ca90de2ea8f22b06f5ba49d7ea/Refocus-HealthTrackerSmartWatch/Python)**
+</details>
+
+<br>
 
 ---
 
