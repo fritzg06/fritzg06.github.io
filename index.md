@@ -70,5 +70,7 @@ Excel, SQL, Power BI & Python projects: Yellevate dispute analysis, Clockster HR
 I'm always open to discussing new projects or career opportunities. 
 [Click here to send me an email](mailto:reyes.fy@gmail.com).
 
+You can also [find me on LinkedIn](https://www.linkedin.com/in/fritz-gerald-reyes/) — I'd love to connect and hear about what you're working on.
+
 
 *Last Updated: May 15, 2026*
