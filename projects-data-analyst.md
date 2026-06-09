@@ -11,7 +11,7 @@ A collection of end-to-end data analytics projects covering Excel, SQL, Power BI
 
 ---
 
-<details>
+<details markdown="1">
 <summary><h3 style="display:inline">🏆 📈 Project Yellevate</h3></summary>
 
 *Breaking down Yellevate's Customer Dispute Problem.*
@@ -37,7 +37,7 @@ A collection of end-to-end data analytics projects covering Excel, SQL, Power BI
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><h3 style="display:inline">🏆 📈 Project Clockster</h3></summary>
 
 *The medical company's HR department wants to determine insights on employee attendance.*
@@ -70,7 +70,7 @@ A collection of end-to-end data analytics projects covering Excel, SQL, Power BI
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><h3 style="display:inline">🏆 📈 Health Tracker Smartwatch Business Expansion Project</h3></summary>
 
 *The goal is to identify the state with the best potential for business expansion.*
