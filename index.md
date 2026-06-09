@@ -30,7 +30,7 @@ My previous roles include L3 SOC Analyst, L3 Technical Support, Collaboration Pr
 
 Explore my work organized by focus area:
 
-### 📈 [Data Analyst](./projects-data-analyst.md)
+### 📈 [Data Analyst](./projects-data-analyst.html)
 Excel, SQL, Power BI & Python projects: Yellevate dispute analysis, Clockster HR attendance, and Health Tracker Smartwatch business expansion.
 
 ### 🖥️ SRE *(coming soon)*
