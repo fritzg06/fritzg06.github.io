@@ -11,7 +11,9 @@ A collection of end-to-end data analytics projects covering Excel, SQL, Power BI
 
 ---
 
-### 🏆 📈 Project Yellevate
+<details>
+<summary><h3 style="display:inline">🏆 📈 Project Yellevate</h3></summary>
+
 *Breaking down Yellevate's Customer Dispute Problem.*
 * **The Problem:** Get insights on how to reduce the revenue loss from disputed invoices.
 * **The Solution:** 3-Phase Methodology
@@ -33,7 +35,11 @@ A collection of end-to-end data analytics projects covering Excel, SQL, Power BI
 | **[Video Presentation](https://drive.google.com/file/d/12CFWdyrIJNPV6LOCBhWxylNCXaChaohl/view?usp=sharing)**
 * **[View Code](https://github.com/fritzg06/fritzg06.github.io/tree/main/Refocus-Yellevate)**
 
-### 🏆 📈 Project Clockster
+</details>
+
+<details>
+<summary><h3 style="display:inline">🏆 📈 Project Clockster</h3></summary>
+
 *The medical company's HR department wants to determine insights on employee attendance.*
 * **The Problem:** 
   - Identify the most disciplined and undisciplined employees and divisions.
@@ -62,7 +68,11 @@ A collection of end-to-end data analytics projects covering Excel, SQL, Power BI
 * **[Power BI PBIX File](https://drive.google.com/file/d/1-sU853qjAW8371ZpOrNoOnhNYo_m5M45/view?usp=sharing)**
 | **[View Code](https://github.com/fritzg06/fritzg06.github.io/tree/main/Refocus-Clockster)**
 
-### 🏆 📈 Health Tracker Smartwatch Business Expansion Project
+</details>
+
+<details>
+<summary><h3 style="display:inline">🏆 📈 Health Tracker Smartwatch Business Expansion Project</h3></summary>
+
 *The goal is to identify the state with the best potential for business expansion.*
 * **The Problem:** 
   - Identify the states with higher income and lower corruption rates (considered more favorable for our business).
@@ -101,6 +111,8 @@ A collection of end-to-end data analytics projects covering Excel, SQL, Power BI
 | **[Excel File](https://docs.google.com/spreadsheets/d/1Xk81aynGgayHbcYgkfpJRDw2nChCkwTq/edit?usp=sharing&ouid=112808586391775117333&rtpof=true&sd=true)**
 | **[Power BI PBIX File](https://drive.google.com/file/d/1yZlBcNpnI-dpDmhDUICwps_KoJTYgC6x/view?usp=sharing)**
 | **[View Code (Python Google Colab Notebook)](https://github.com/fritzg06/fritzg06.github.io/tree/634dcaa93cbc53ca90de2ea8f22b06f5ba49d7ea/Refocus-HealthTrackerSmartWatch/Python)**
+
+</details>
 
 ---
 
