@@ -7,7 +7,7 @@ title: Your Name | Portfolio
 
 # 👋 Hi, I am Fritz Gerald Reyes
 ### 🖥️ SRE (Site Reliability Engineer) | 🛡️ Cyber Security | 📈 Data Analyst
-**[Bacoor, Cavite, PH]** | [Email](mailto:reyes.fy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fritz-gerald-reyes/) | [GitHub](https://github.com/fritzg06)
+**[Bacoor, Cavite, PH]** | [Email](mailto:reyes.fy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fritz-gerald-reyes/) | [GitHub](https://github.com/fritzg06) | [📄 Full CV](./cv-full.html)
 
 ---
 

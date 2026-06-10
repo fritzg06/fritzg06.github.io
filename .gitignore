@@ -1,0 +1,9 @@
+# Source CV PDF contains phone number — keep local only
+CV fritz_reyes*.pdf
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
