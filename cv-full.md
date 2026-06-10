@@ -7,7 +7,7 @@ title: Full CV | Fritz Gerald Reyes
 
 # Fritz Gerald Yan Reyes
 
-**Cavite, Philippines** | [Email](mailto:reyes.fy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fritz-gerald-reyes/) | [GitHub](https://github.com/fritzg06) | [Data Analyst Portfolio](./projects-data-analyst.html)
+**Philippines** | [Email](mailto:reyes.fy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fritz-gerald-reyes/) | [GitHub](https://github.com/fritzg06) | [Data Analyst Portfolio](./projects-data-analyst.html)
 
 ---
 
