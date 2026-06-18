@@ -38,7 +38,7 @@ Excel, SQL, Power BI & Python projects: Yellevate dispute analysis, Clockster HR
 ### 🛡️ Cybersecurity *(coming soon)*
 
 ### 🌐 [Network](./projects-network-homelab.html)
-Enterprise-grade transit-subnet architecture featuring Mikrotik/TP-Link L3 routing and secure network segmentation.
+Enterprise-grade network architecture featuring Mikrotik/TP-Link L3 routing and secure network segmentation.
 
 ---
 
