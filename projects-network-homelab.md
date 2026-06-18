@@ -151,6 +151,7 @@ High-level segmentation strategy.
 | **778** | **GUEST** | `10.250.78.0/24` | `10.250.78.1` | Isolated Guest Compute |
 
 ### 🖥️ Hardware Inventory
+
 | Device | Role | OS / Hypervisor |
 | :--- | :--- | :--- |
 | **Mikrotik RB5009** | Core Router & Firewall | RouterOS v7.19.6 |
