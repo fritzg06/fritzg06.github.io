@@ -74,4 +74,4 @@ I'm always open to discussing new projects or career opportunities.
 You can also [find me on LinkedIn](https://www.linkedin.com/in/fritz-gerald-reyes/) — I'd love to connect and hear about what you're working on.
 
 
-*Last Updated: June 9, 2026*
+*Last Updated: June 19, 2026*
