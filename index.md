@@ -33,12 +33,12 @@ Explore my work organized by focus area:
 ### 📈 [Data Analyst](./projects-data-analyst.html)
 Excel, SQL, Power BI & Python projects: Yellevate dispute analysis, Clockster HR attendance, and Health Tracker Smartwatch business expansion.
 
+### 🌐 [Network](./projects-network-homelab.html)
+Enterprise-grade network architecture featuring Mikrotik/TP-Link L3 routing and secure network segmentation.
+
 ### 🖥️ SRE *(coming soon)*
 
 ### 🛡️ Cybersecurity *(coming soon)*
-
-### 🌐 [Network](./projects-network-homelab.html)
-Enterprise-grade network architecture featuring Mikrotik/TP-Link L3 routing and secure network segmentation.
 
 ---
 
