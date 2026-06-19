@@ -24,7 +24,7 @@ The goal of this project is to build a robust homelab network that separates tru
 * **Security & Quarantine:** Dedicated zones for malware experimentation and secure file analysis using hardware ACLs.
 
 ### 📐 Architectural Blueprint
-![Home Network Detailed Diagram](./images/projects/network/homelab/home_network_diagram.png)
+[![Home Network Detailed Diagram](./images/projects/network/homelab/home_network_diagram.png)](./images/projects/network/homelab/home_network_diagram.png)
 
 ### 🔗 Logical Infrastructure (Source)
 The following Mermaid.js source defines the dynamic network topology, demonstrating a "Documentation as Code" approach to infrastructure management.
