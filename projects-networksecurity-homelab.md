@@ -99,10 +99,10 @@ Scored with CSF Implementation Tiers + a CMMI lens, capping any function that is
 | IDENTIFY | 3.0 | 3 |
 | PROTECT | 2.0 | 2 |
 | DETECT | 2.0 | 2 |
-| RESPOND | 2.5 | 2 |
+| RESPOND | 3.0 | 2 |
 | RECOVER | 2.0 | 2 |
 
-**Overall ≈ 2.4 / 5 → Tier 2 (Risk-Informed).** The *design* maturity sits around Tier 3; the *enforced* maturity is honestly Tier 2 — and tracking that gap is itself a deliberate governance artifact.
+**Overall ≈ 2.5 / 5 → Tier 2 (Risk-Informed).** **RESPOND** rose to *Defined (3.0)* once the containment path went live end-to-end — the RB5009 `drop src-address-list=quarantine` rule now performs real L3 isolation, and the contain-vs-observe decision record gives incident analysis a framework-backed reference; it stops short of *Managed (4)* because the response is enforced but **not yet measured** (auto-trigger still awaits Wazuh, and the path is unexercised). The *design* maturity sits around Tier 3; the *enforced* maturity is honestly Tier 2 — and tracking that gap is itself a deliberate governance artifact.
 
 ### 🗺️ Gaps & Roadmap
 * Deploy the **Wazuh** server to move the detection catalog from design to enforced telemetry.
