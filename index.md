@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your Name | Portfolio
+title: Fritz Reyes | Portfolio
 ---
 
 > 🏗️ **Note:** This portfolio is currently **under construction**. Some links or images may be placeholders while I finalize the content.
