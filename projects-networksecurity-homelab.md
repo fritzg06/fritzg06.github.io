@@ -43,7 +43,7 @@ Evidence is mapped across all six framework functions.
 | **IDENTIFY** | Asset inventory & data flows | Sanitized asset inventory, network-zone catalog, data-flow mapping |
 | **PROTECT** | Segmentation, hardening, PAM | Firewall matrix, AD hardening, privileged-access broker, host firewalls |
 | **DETECT** | Monitoring & analytics | Logging architecture, MITRE-mapped detection use cases, Wazuh rule catalog |
-| **RESPOND** | IR & containment | Incident-response playbook, automated host quarantine, comms plan |
+| **RESPOND** | IR & containment | Incident-response playbook, automated host quarantine (live RB5009 drop rule), contain-vs-observe detonation decision record, comms plan |
 | **RECOVER** | Restoration & lessons learned | Recovery procedures, lessons-learned register |
 
 ### 🧱 Segmentation & East-West Enforcement
@@ -62,7 +62,7 @@ The core of the design is a **two-device split-enforcement model** that squeezes
 | **777** | **MALWARE** | `10.XXX.XX.0/24` | Untrusted by design |
 | **778** | **GUEST** | `10.XXX.XX.0/24` | Untrusted |
 
-> The **MALWARE** detonation zone is hard-denied east-west at the switch, and its analysis VM keeps its virtual NIC **disconnected by default** — the host is offline until deliberately connected and observed.
+> The **MALWARE** detonation zone is hard-denied east-west at the switch, and its analysis VM keeps its virtual NIC **disconnected by default** — the host is offline until deliberately connected and observed. A formal *contain-vs-observe* decision record keeps the vNIC **fail-closed** until a controlled session, and dynamic analysis runs under **simulated internet (INetSim / FakeNet-NG)** so a sample reveals its C2 behavior with **no real egress** — the harvested IOCs then feed back into Wazuh rules and MikroTik `address-list` blocks.
 
 ### 🎯 Detection Engineering [DESIGN]
 Detection use cases are mapped to **MITRE ATT&CK** and organized under a structured Wazuh rule-ID numbering scheme (grouped by domain). *Presented as a design catalog.*
@@ -80,9 +80,9 @@ Signals for **lateral movement** (SMB to non-file-servers, WinRM type-3 logons, 
 ### 🚨 Incident Response & Automation
 *The playbook is a design reference not yet exercised against live infrastructure; the automation below is built and runnable today.*
 
-Response follows **SP 800-61** phases with a severity matrix and per-scenario quick cards (ransomware on NAS, domain-admin compromise with double KRBTGT rotation, malware-zone escape, router takeover).
+Response follows **SP 800-61** phases with a severity matrix and per-scenario quick cards (ransomware on NAS, domain-admin compromise with double KRBTGT rotation, malware-zone escape, router takeover). Containment strategy is pre-decided rather than improvised: a formal **contain-vs-observe** decision record (NIST SP 800-61 / SANS PICERL) governs the MALWARE detonation VM — *disconnect-the-NIC vs. observe-for-IOCs* — resolving into two keyed defaults (compromised production host → contain now; detonation VM → fail-closed until a controlled, simulated-internet session), with evidence captured in **order of volatility**.
 
-The flagship automation is a **host-quarantine tool** (Python) that adds/releases a host to a router quarantine address-list via the RouterOS API. It ships with the safety patterns that matter in production:
+The flagship automation is a **host-quarantine tool** (Python) that adds/releases a host to the MikroTik RB5009 `quarantine` address-list via the RouterOS API. The enforcement is **live**: a forward-chain `drop src-address-list=quarantine` rule — ordered **above** the broad `ALL-NETWORK`/INTERNET permits — is deployed on the router, so adding an IP is **real L3 egress isolation**, not just a script action. *(Automatic invocation via Wazuh active-response is target-state — the SIEM is not yet deployed — so today it runs as a manual IR action.)* It ships with the safety patterns that matter in production:
 
 * **`CRITICAL_DENY` guard** — refuses to quarantine the management plane, domain controller, NAS, SIEM, or PAM broker, preventing an accidental self-inflicted outage (`--force` required to override).
 * **Graceful fallback** — if the API library is unavailable it prints the exact manual commands instead of failing silently.
