@@ -62,7 +62,7 @@ The core of the design is a **two-device split-enforcement model** that squeezes
 | **777** | **MALWARE** | `10.XXX.XX.0/24` | Untrusted by design |
 | **778** | **GUEST** | `10.XXX.XX.0/24` | Untrusted |
 
-> The **MALWARE** detonation zone is hard-denied east-west at the switch, and its analysis VM keeps its virtual NIC **disconnected by default** — the host is offline until deliberately connected and observed. A formal *contain-vs-observe* decision record keeps the vNIC **fail-closed** until a controlled session, and dynamic analysis runs under **simulated internet (INetSim / FakeNet-NG)** so a sample reveals its C2 behavior with **no real egress** — the harvested IOCs then feed back into Wazuh rules and MikroTik `address-list` blocks.
+> The **MALWARE** detonation zone is hard-denied east-west at the switch, and its analysis VM keeps its virtual NIC **disconnected by default** — the host is offline until deliberately connected and observed. A formal *contain-vs-observe* decision record keeps the vNIC **fail-closed** until a controlled session, and **prescribes** dynamic analysis under **simulated internet (e.g. INetSim / FakeNet-NG)** — a planned control, not yet stood up — so a sample can reveal its C2 behavior with **no real egress**, with the harvested IOCs designed to feed back into Wazuh rules and MikroTik `address-list` blocks.
 
 ### 🎯 Detection Engineering [DESIGN]
 Detection use cases are mapped to **MITRE ATT&CK** and organized under a structured Wazuh rule-ID numbering scheme (grouped by domain). *Presented as a design catalog.*
@@ -80,7 +80,7 @@ Signals for **lateral movement** (SMB to non-file-servers, WinRM type-3 logons, 
 ### 🚨 Incident Response & Automation
 *The playbook is a design reference not yet exercised against live infrastructure; the automation below is built and runnable today.*
 
-Response follows **SP 800-61** phases with a severity matrix and per-scenario quick cards (ransomware on NAS, domain-admin compromise with double KRBTGT rotation, malware-zone escape, router takeover). Containment strategy is pre-decided rather than improvised: a formal **contain-vs-observe** decision record (NIST SP 800-61 / SANS PICERL) governs the MALWARE detonation VM — *disconnect-the-NIC vs. observe-for-IOCs* — resolving into two keyed defaults (compromised production host → contain now; detonation VM → fail-closed until a controlled, simulated-internet session), with evidence captured in **order of volatility**.
+Response follows **SP 800-61** phases with a severity matrix and per-scenario quick cards (ransomware on NAS, domain-admin compromise with double KRBTGT rotation, malware-zone escape, router takeover). Containment strategy is pre-decided rather than improvised: a formal **contain-vs-observe** decision record (NIST SP 800-61 / SANS PICERL) governs the MALWARE detonation VM — *disconnect-the-NIC vs. observe-for-IOCs* — resolving into two keyed defaults (compromised production host → contain now; detonation VM → fail-closed until a controlled session, with dynamic analysis prescribed under simulated internet rather than real egress), with evidence captured in **order of volatility**.
 
 The flagship automation is a **host-quarantine tool** (Python) that adds/releases a host to the MikroTik RB5009 `quarantine` address-list via the RouterOS API. The enforcement is **live**: a forward-chain `drop src-address-list=quarantine` rule — ordered **above** the broad `ALL-NETWORK`/INTERNET permits — is deployed on the router, so adding an IP is **real L3 egress isolation**, not just a script action. *(Automatic invocation via Wazuh active-response is target-state — the SIEM is not yet deployed — so today it runs as a manual IR action.)* It ships with the safety patterns that matter in production:
 
@@ -107,6 +107,7 @@ Scored with CSF Implementation Tiers + a CMMI lens, capping any function that is
 ### 🗺️ Gaps & Roadmap
 * Deploy the **Wazuh** server to move the detection catalog from design to enforced telemetry.
 * Enable **switch ACL logging** to close the east-west detection blind spot.
+* Stand up the **simulated-internet detonation sandbox** (INetSim / FakeNet-NG) prescribed by the contain-vs-observe decision record — so the MALWARE zone can harvest C2 IOCs with no real egress.
 * Build out **data-security (PR.DS)** controls — the one openly-uncovered CSF category.
 
 ### 🛠️ Tech Stack
