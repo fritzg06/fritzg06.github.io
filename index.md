@@ -38,7 +38,8 @@ Enterprise-grade network architecture featuring Mikrotik/TP-Link L3 routing and 
 
 ### 🖥️ SRE *(coming soon)*
 
-### 🛡️ Cybersecurity *(coming soon)*
+### 🛡️ [Cybersecurity](./projects-networksecurity-homelab.html)
+Zero Trust home lab aligned to NIST CSF 2.0 — micro-segmentation, MITRE-mapped detection, and incident-response automation.
 
 ---
 
@@ -74,4 +75,4 @@ I'm always open to discussing new projects or career opportunities.
 You can also [find me on LinkedIn](https://www.linkedin.com/in/fritz-gerald-reyes/) — I'd love to connect and hear about what you're working on.
 
 
-*Last Updated: June 19, 2026*
+*Last Updated: July 16, 2026*
